@@ -1,8 +1,4 @@
-Sure — here’s your complete **`README.md`** file in one neatly formatted, ready-to-upload version:
 
----
-
-````markdown
 # 🩺 Stroke Prediction Data Analysis
 
 ## 📌 Problem Statement
