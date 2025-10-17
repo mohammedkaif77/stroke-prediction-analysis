@@ -185,4 +185,4 @@ stroke-prediction-analysis/
 **Mohammed Kaif**
 📧 Email: [kaif09390@gmail.com](mailto:kaif09390@gmail.com)
 💼 Role: Data Analyst & AI/ML Enthusiast
-🌐 GitHub: [github.com/yourusername](https://github.com/yourusername)
+🌐 GitHub: [github.com/mohammedkaif77](https://github.com/mohammedkaif77/stroke-prediction-analysis)
